@@ -1,7 +1,5 @@
 # Data-Analysis-and-Anomaly-Detection
 
-Here's a concise version of the README.md:
-
 Stock Market Anomaly Detection
 Overview
 This project, created as part of my internship at Optifxy Technology, uses Python for anomaly detection in stock market data.
